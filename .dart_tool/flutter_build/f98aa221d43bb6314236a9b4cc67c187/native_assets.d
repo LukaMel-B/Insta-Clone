@@ -1,0 +1,1 @@
+ /Users/luhasaniyya/Documents/Flutter-Bootcamp/ICT/im_rich/.dart_tool/flutter_build/f98aa221d43bb6314236a9b4cc67c187/native_assets.yaml: 
